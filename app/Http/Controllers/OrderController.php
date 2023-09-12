@@ -68,6 +68,6 @@ class OrderController extends Controller
     public function destroy(Order $order)
     {
         Order::destroy($order->id);
-        return redirect('/orders')->with('success', 'Post has been deleted');
+        return redirect('/orders')->with('success', 'Order has been deleted');
     }
 }
