@@ -7,6 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+- Live demo : https://poppyfebria.ddns.net:9003/
+
 ## Installation
 
 Clone the repo locally:
